@@ -1,4 +1,4 @@
-# Data Science
+# Data Science - projects
 **My projects:**
 
  1. **Students Score Dataset - Linear Regression**
